@@ -69,7 +69,28 @@ namespace PrezentacionaLogika
             return StatusPrijavljenogKorisnika;
 
         }
+        public string DajImePrezimePrijavljenogKorisnika()
+        {
+            string ImeKorisnika = "";
+            string PrezimeKorisnika = "";
+            string ImePrezimeKorisnika = "";
+            DataSet dsPodaci = new DataSet();
+            KorisnikDB objKorisnikDB = new KorisnikDB(pStringKonekcije);
+            dsPodaci = objKorisnikDB.DajPodatkeKorisnika(this.pKorisnickoIme, this.pSifra);
+            if (dsPodaci.Tables[0].Rows.Count > 0)
+            {
+                PrezimeKorisnika = dsPodaci.Tables[0].Rows[0].ItemArray[2].ToString();
+                ImeKorisnika = dsPodaci.Tables[0].Rows[0].ItemArray[3].ToString();
+                ImePrezimeKorisnika = ImeKorisnika + " " + PrezimeKorisnika;
+            }
+            else
+            {
+                ImePrezimeKorisnika = "NIJE PRONADJEN KORISNIK";
+            }
 
+            return ImePrezimeKorisnika;
+
+        }
 
        
     }
