@@ -1,0 +1,16 @@
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\KlasePodataka.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.csprojResolveAssemblyReference.cache
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\KlasePodataka.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.dll.config
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.dll.config
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.dll
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\PrezentacionaLogika.pdb
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\KlasePodataka.dll
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\bin\Debug\KlasePodataka.pdb
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.csprojResolveAssemblyReference.cache
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.dll
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\PrezentacionaLogika\PrezentacionaLogika\obj\Debug\PrezentacionaLogika.pdb

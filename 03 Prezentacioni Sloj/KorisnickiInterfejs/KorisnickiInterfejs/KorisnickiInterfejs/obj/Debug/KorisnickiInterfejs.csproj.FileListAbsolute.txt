@@ -1,0 +1,52 @@
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\03 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\student\Documents\Visual Studio 2010\Projects\IP2018\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\nemanja\Desktop\Casovi vezbi\04 cas\RESENJE\04 cas\04 Prezentacioni sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.dll
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KorisnickiInterfejs.pdb
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.dll
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.dll
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\KlasePodataka.pdb
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\bin\PrezentacionaLogika.pdb
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.dll
+D:\Diplomski Salon Automobila\SALON AUTOMOBILA\04 Prezentacioni Sloj\KorisnickiInterfejs\KorisnickiInterfejs\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
