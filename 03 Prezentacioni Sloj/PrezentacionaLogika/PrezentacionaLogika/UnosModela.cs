@@ -151,7 +151,31 @@ namespace PrezentacionaLogika
             return VrednostSifreBoje;
         }
 
-        
+        public bool SnimiPodatke()
+        {
+            ProveraOpseg.Service1 service = new ProveraOpseg.Service1();
+            bool uspeh = false;
+            if (this.DaLiSuPodaciIspravni())
+            {
+                if (service.ProveriOpseg(Int32.Parse(pMotor)))
+                {
+                    ModelDB objModelDB = new ModelDB(pStringKonekcije);
+                    Model objNoviModel = new Model();
+                    // prerada ulaznih podataka
+                    objNoviModel.IDModela = pIDModela;
+                    objNoviModel.NazivModela = pNazivModela;
+                    objNoviModel.Motor = pMotor;
+                    objNoviModel.Godina = pGodina;
+                    objNoviModel.SifraBoje = this.DajSifruBoje(this.pNazivBoje);
+                    objNoviModel.SifraProizvodjaca = this.DajSifruProizvodjaca(this.pNazivProizvodjaca);
+
+
+                    // snimanje putem DB klase
+                    uspeh = objModelDB.SnimiNoviModel(objNoviModel);
+                }
+            }
+            return uspeh;
+        }
 
       
 
