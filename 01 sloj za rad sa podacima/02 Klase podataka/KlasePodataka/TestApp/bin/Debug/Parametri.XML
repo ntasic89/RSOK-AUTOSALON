@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<Parametri>
+<Parametar>
+<Host>(local)</Host>
+<SQLServerInstanca>SQLEXPRESS</SQLServerInstanca>
+<NazivBazePodataka>SALONAUTOMOBILA_IP2018</NazivBazePodataka>
+</Parametar>
+</Parametri>
