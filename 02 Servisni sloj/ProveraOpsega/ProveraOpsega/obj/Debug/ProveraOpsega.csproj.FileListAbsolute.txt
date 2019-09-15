@@ -1,0 +1,5 @@
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\02 Servisni sloj\ProveraOpsega\ProveraOpsega\bin\ProveraOpsega.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\02 Servisni sloj\ProveraOpsega\ProveraOpsega\bin\ProveraOpsega.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\02 Servisni sloj\ProveraOpsega\ProveraOpsega\obj\Debug\ProveraOpsega.dll
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\02 Servisni sloj\ProveraOpsega\ProveraOpsega\obj\Debug\ProveraOpsega.pdb
+C:\Users\nemanja\Desktop\SALON AUTOMOBILA\02 Servisni sloj\ProveraOpsega\ProveraOpsega\obj\Debug\ProveraOpsega.csprojResolveAssemblyReference.cache
