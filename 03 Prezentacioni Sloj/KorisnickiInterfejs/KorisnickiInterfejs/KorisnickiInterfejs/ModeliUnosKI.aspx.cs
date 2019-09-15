@@ -33,7 +33,19 @@ namespace KorisnickiInterfejs
             }
 
         }
+        private void NapuniComboZaBoju()
+        {
+            // citamo podatke iz prez logike koja poziva web servis
 
+            DataSet dsPodaciZaBoju = new DataSet();
+            dsPodaciZaBoju = objModelUnosForma.DajPodatkeZaBoju();
+            // postavljanje podataka u combo
+            for (int i = 0; i < dsPodaciZaBoju.Tables[0].Rows.Count; i++)
+            {
+                ddlBoja.Items.Add(dsPodaciZaBoju.Tables[0].Rows[i].ItemArray[1].ToString());
+            }
+
+        }
         
 
         // javne metode
@@ -45,7 +57,7 @@ namespace KorisnickiInterfejs
             if (!IsPostBack)
             {
                 NapuniCombo();
-               
+                NapuniComboZaBoju();
             }
         }
 
