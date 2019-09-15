@@ -16,7 +16,7 @@ namespace KorisnickiInterfejs
 
         protected void btnFilterStampa_Click(object sender, EventArgs e)
         {
-            
+            Response.Redirect("ModeliStampaKorisnik.aspx?filter=" + txbFilter.Text);
         }
     }
 }
