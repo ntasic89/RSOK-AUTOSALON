@@ -32,7 +32,7 @@ namespace KorisnickiInterfejs
 
             if (status.Equals("NIJE PRONADJEN KORISNIK"))
             {
-                //Response.Redirect("Default.aspx");
+                
                 lblStatus.Text = status + "-" + txbKorisnickoIme.Text; 
             }
             else
